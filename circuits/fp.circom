@@ -82,7 +82,7 @@ template FpMul(n, k) {
     }
 }
 
-component main { public [ a, b, p ] } = FpMul(121, 34);
+// component main { public [ a, b, p ] } = FpMul(121, 34);
 
 /* INPUT = {
     "a": "5",
